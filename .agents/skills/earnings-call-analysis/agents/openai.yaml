@@ -1,0 +1,4 @@
+interface:
+  display_name: "Earnings Call Analysis"
+  short_description: "Analyze calls, Q&A, targets, and financial verification"
+  default_prompt: "Use $earnings-call-analysis to review these multi-quarter earnings calls and verify management targets against later financial statements."
